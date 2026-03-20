@@ -1,0 +1,2 @@
+
+ALTER TABLE recess ADD COLUMN image_size INTEGER DEFAULT 256;

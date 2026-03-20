@@ -1,0 +1,3 @@
+
+ALTER TABLE events ADD COLUMN manually_set BOOLEAN DEFAULT 0;
+ALTER TABLE recess ADD COLUMN manually_set BOOLEAN DEFAULT 0;

@@ -1,0 +1,3 @@
+
+ALTER TABLE events ADD COLUMN logo_url TEXT;
+ALTER TABLE events ADD COLUMN logo_size INTEGER DEFAULT 256;

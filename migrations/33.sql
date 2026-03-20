@@ -1,0 +1,2 @@
+
+ALTER TABLE pade_people ADD COLUMN sort_order INTEGER DEFAULT 0;

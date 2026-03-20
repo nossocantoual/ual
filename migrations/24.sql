@@ -1,0 +1,2 @@
+
+ALTER TABLE recess ADD COLUMN message TEXT;
